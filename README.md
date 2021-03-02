@@ -16,7 +16,12 @@ This clock web app was created to showcase my skills in CSS, HTML & JavaScript.
 - Implement a live hand-clock using only HTML, CSS and JavaScript. If time allows, make sure the various clock hands are easily distinguishable.
 
 ## Concepts Covered
-- `Date.now()`
+- JavaScript
+    - `Date.now()` & converting time
+- CSS
+    - Transform
+    - Translate
+    - Radius
 
 ## Updates
 - [ ] Make Responsive
