@@ -13,8 +13,7 @@ You can interact with the deployed app [here](https://wonderful-carson-4fd444.ne
 This calculator app was created to showcase my skills in CSS, HTML & JavaScript.
 
 ## Prompt
-- Build a web calculator, that supports the basic operations of `add`, `subtract`, `multiply` and `divide`.
-- In addition, support resetting the current state, as well as a decimal point button.
+- Implement a live hand-clock using only HTML, CSS and JavaScript. If time allows, make sure the various clock hands are easily distinguishable.
 
 ## Concepts Covered
 - Using ES6 Classes to organize code
