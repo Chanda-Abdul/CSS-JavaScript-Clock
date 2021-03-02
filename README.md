@@ -23,3 +23,4 @@ This clock web app was created to showcase my skills in CSS, HTML & JavaScript.
 - [ ] update stylings on clock hands
 - [ ] improve functionality
 - [ ] add time notches
+- [ ] add different background for night, (https://images.unsplash.com/photo-1523380262778-076eb862d38f)
